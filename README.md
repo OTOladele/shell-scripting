@@ -1,2 +1,2 @@
 # shell-scripting
-practicing shell scripting
+practicing shell scripting with Raghu
